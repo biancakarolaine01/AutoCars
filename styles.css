@@ -22,7 +22,7 @@
 }
 
 .section2 {
-    background-image: linear-gradient(rgb(170, 170, 170), grey);
+    background-image: linear-gradient(grey, rgb(168, 168, 168));
     color: aliceblue;
     padding: 100px;
     font-size: small;
@@ -35,10 +35,14 @@
 }
 
 .rodape {
-    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(180, 180, 180), rgb(209, 209, 209));
     color: rgb(0, 0, 0);
 }
 
 .imgmec {
+    padding-right: 100px;
+}
+
+.imgmotor{
     padding-right: 100px;
 }
