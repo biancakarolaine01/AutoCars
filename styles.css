@@ -1,18 +1,25 @@
+.corposite{
+    color: aliceblue;
+}
+
+
+
 .cabecalho {
-    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(white,rgb(209, 209, 209));
     color: rgb(0, 0, 0);
     display: flex;
     padding: 24px 0;
 }
 
 .section1 {
-    background-color: rgb(100, 100, 100);
+    background-image: linear-gradient(rgb(170, 170, 170),grey);
     color: aliceblue;
     padding: 100px;
+    font-size: small;
 }
 
 .section2 {
-    background-color: rgb(126, 126, 126);
+    background-image: linear-gradient(rgb(170, 170, 170),grey);
     color: aliceblue;
     padding: 100px;
 }
