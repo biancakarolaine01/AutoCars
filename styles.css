@@ -1,34 +1,44 @@
-.corposite{
+.corposite {
     color: aliceblue;
 }
 
 
 
 .cabecalho {
-    background-image: linear-gradient(white,rgb(209, 209, 209));
+    background-image: linear-gradient(white, rgb(209, 209, 209));
     color: rgb(0, 0, 0);
     display: flex;
-    padding: 24px 0;
+    padding: 10px 0;
+    justify-content: baseline;
 }
 
 .section1 {
-    background-image: linear-gradient(rgb(170, 170, 170),grey);
+    background-image: linear-gradient(rgb(170, 170, 170), grey);
     color: aliceblue;
     padding: 100px;
     font-size: small;
+    display: flex;
+    justify-content: baseline;
 }
 
 .section2 {
-    background-image: linear-gradient(rgb(170, 170, 170),grey);
+    background-image: linear-gradient(rgb(170, 170, 170), grey);
     color: aliceblue;
     padding: 100px;
+    font-size: small;
+    display: flex;
+    justify-content: baseline;
 }
 
 .cabecalho-img {
-    width: 5%;
+    width: 20%;
 }
 
-.rodape{
-background-color: rgb(255, 255, 255);
-color: rgb(0, 0, 0);
+.rodape {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.imgmec {
+    padding-right: 100px;
 }
